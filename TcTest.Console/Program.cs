@@ -3,3 +3,4 @@
 
 Console.WriteLine("Hello, I'm a feature!");
 Console.WriteLine("Tralala");
+Console.WriteLine("Staging");
